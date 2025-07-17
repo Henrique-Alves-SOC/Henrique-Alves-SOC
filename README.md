@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 Olá! Eu sou o Henrique.  
 Sou estudante de *Análise e Desenvolvimento de Sistemas* (UNIP) e formado em *Informática pelo SENAC, com foco total na **área de Cibersegurança, especialmente em **Análise SOC, **Blue Team, **GRC, **resposta a incidentes* e *automatização de tarefas com Python*.
@@ -15,7 +15,7 @@ Sou fascinado por tudo que envolve defesa cibernética e estou sempre criando fe
 
 ---
 
-### 🧠 Interesses
+### Interesses
 
 - Segurança da Informação (SOC, Threat Hunting, Resposta a Incidentes)
 - Governança, Riscos e Conformidade (GRC) 
@@ -29,7 +29,7 @@ Sou fascinado por tudo que envolve defesa cibernética e estou sempre criando fe
 
 ---
 
-### 🛠 Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -40,7 +40,7 @@ Sou fascinado por tudo que envolve defesa cibernética e estou sempre criando fe
 
 ---
 
-### 📌 Projetos em Destaque
+### Projetos em Destaque
 
 - **[BadListBlocker PRO PRO](https://github.com/seuusuario/BadListBlocker)**  
   Sistema de bloqueio e monitoramento de IPs maliciosos com geolocalização, categorias de ameaça e alertas automáticos por e-mail.
@@ -48,14 +48,14 @@ Sou fascinado por tudo que envolve defesa cibernética e estou sempre criando fe
 
 ---
 
-### 🌍 Idiomas
+### Idiomas
 
 - 🇺🇸 Inglês: Intermediário (B2 - TOEFL)
 - 🇪🇸 Espanhol: Básico
 
 ---
 
-### 📬 Entre em contato comigo
+### Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquealvessoc/)
 
