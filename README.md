@@ -39,14 +39,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (UNIP) e formado em Info
 
 ---
 
-### Projetos em Destaque
-
-- **[BadListBlocker PRO PRO](https://github.com/seuusuario/BadListBlocker)**  
-  Sistema de bloqueio e monitoramento de IPs maliciosos com geolocalização, categorias de ameaça e alertas automáticos por e-mail.
-
-
----
-
 ### Idiomas
 
 - 🇺🇸 Inglês: Intermediário (B2 - TOEFL)
