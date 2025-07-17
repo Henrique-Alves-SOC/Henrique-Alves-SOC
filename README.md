@@ -9,9 +9,8 @@
 ### Sobre mim
 
 Olá! Eu sou o Henrique.  
-Sou estudante de *Análise e Desenvolvimento de Sistemas* (UNIP) e formado em *Informática pelo SENAC, com foco total na **área de Cibersegurança, especialmente em **Análise SOC, **Blue Team, **GRC, **resposta a incidentes* e *automatização de tarefas com Python*.
-
-Sou fascinado por tudo que envolve defesa cibernética e estou sempre criando ferramentas práticas que simulam situações reais de segurança — inclusive já desenvolvi projetos completos como o 
+Sou estudante de Análise e Desenvolvimento de Sistemas (UNIP) e formado em Informática pelo SENAC, com foco total na área de Cibersegurança, especialmente em Análise SOC, Blue Team, GRC, resposta a incidentes e automatização de tarefas com Python.
+Sou fascinado por tudo que envolve defesa cibernética. 
 
 ---
 
