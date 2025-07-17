@@ -45,7 +45,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (UNIP) e formado em Info
 
 ---
 
-### Entre em contato comigo
+### Entre em Contato!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquealvessoc/)
 
