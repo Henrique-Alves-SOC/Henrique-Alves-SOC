@@ -41,8 +41,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (UNIP) e formado em Info
 
 ### Idiomas
 
-- 🇺🇸 Inglês: Intermediário (B2 - TOEFL)
-- 🇪🇸 Espanhol: Básico
+- Inglês: Intermediário (B2 - TOEFL)
+- Espanhol: Básico
 
 ---
 
