@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Henrique Alves</h1>
+<p align="center">
+  Blue Team • SOC • Cibersegurança • GRC <br/>
+  Estudante de ADS | Técnico em Informática - SENAC <br/>
+</p>
 
-<!--
-**Henrique-Alves-SOC/Henrique-Alves-SOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Olá! Eu sou o Henrique.  
+Sou estudante de *Análise e Desenvolvimento de Sistemas* (UNIP) e formado em *Informática pelo SENAC, com foco total na **área de Cibersegurança, especialmente em **Análise SOC, **Blue Team, **GRC, **resposta a incidentes* e *automatização de tarefas com Python*.
+
+Sou fascinado por tudo que envolve defesa cibernética e estou sempre criando ferramentas práticas que simulam situações reais de segurança — inclusive já desenvolvi projetos completos como o 
+
+---
+
+### 🧠 Interesses
+
+- Segurança da Informação (SOC, Threat Hunting, Resposta a Incidentes)
+- Governança, Riscos e Conformidade (GRC) 
+- Ferramentas SIEM (como Splunk e Elastic)
+- Frameworks de segurança: MITRE ATT&CK, NIST, COBIT, ITIL
+- Proteção de dados e conformidade com a LGPD
+- Python para automação e análise de logs
+- Análise forense e detecção de ameaças
+- Gestão de riscos, auditorias internas e políticas de segurança
+
+
+---
+
+### 🛠 Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📌 Projetos em Destaque
+
+- **[BadListBlocker PRO PRO](https://github.com/seuusuario/BadListBlocker)**  
+  Sistema de bloqueio e monitoramento de IPs maliciosos com geolocalização, categorias de ameaça e alertas automáticos por e-mail.
+
+
+---
+
+### 🌍 Idiomas
+
+- 🇺🇸 Inglês: Intermediário (B2 - TOEFL)
+- 🇪🇸 Espanhol: Básico
+
+---
+
+### 📬 Entre em contato comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquealvessoc/)
+
+---
+
+> “Segurança não é um produto, é um processo.” – Bruce Schneier
 -->
