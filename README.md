@@ -1,7 +1,7 @@
 <h1 align="center">Henrique Alves</h1>
 <p align="center">
   Blue Team • SOC • Cibersegurança • GRC <br/>
-  Estudante de ADS | Técnico em Informática - SENAC <br/>
+  Estudante de ADS | Técnico em Informática <br/>
 </p>
 
 ---
